@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Manu Pinero but you can call Manu😀</h1>
+<h1 align="center">Hi there 👋, I'm Manu Pinero but you can call me Manu😀</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manupinero&label=Profile%20views&color=0e75b6&style=flat" alt="manupinero" /> </p>
 
 - 🔭 I’m currently working as **a Freelancer**
